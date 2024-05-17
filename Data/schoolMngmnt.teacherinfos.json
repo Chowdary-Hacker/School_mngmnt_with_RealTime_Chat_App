@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "662e3279603c657e6f243e1a"
+  },
+  "email": "test@gmail.com",
+  "name": "saranya",
+  "class": [
+    {
+      "class": "6",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "663e2ce4663dc8363d88e813"
+      }
+    },
+    {
+      "class": "9",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "663e2ce4663dc8363d88e814"
+      }
+    },
+    {
+      "class": "10",
+      "subject": [
+        "mathematics"
+      ],
+      "_id": {
+        "$oid": "663e2ce4663dc8363d88e815"
+      }
+    }
+  ],
+  "salary": 1500000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e329e603c657e6f243e1d"
+  },
+  "email": "shr@gmail.com",
+  "name": "shr",
+  "class": [
+    {
+      "class": "6",
+      "subject": [
+        "english",
+        "hindi"
+      ],
+      "_id": {
+        "$oid": "663e2d69663dc8363d88e81a"
+      }
+    },
+    {
+      "class": "9",
+      "subject": [
+        "english",
+        "hindi"
+      ],
+      "_id": {
+        "$oid": "663e2d69663dc8363d88e81b"
+      }
+    },
+    {
+      "class": "10",
+      "subject": [
+        "english"
+      ],
+      "_id": {
+        "$oid": "663e2d69663dc8363d88e81c"
+      }
+    }
+  ],
+  "salary": 1200000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645f60beeac9ba495ffdbc8"
+  },
+  "email": "jyo@gmail.com",
+  "name": "jyothsna",
+  "class": [
+    {
+      "class": "6",
+      "subject": [
+        "telugu",
+        "science"
+      ],
+      "_id": {
+        "$oid": "6645f60beeac9ba495ffdbc9"
+      }
+    },
+    {
+      "class": "7",
+      "subject": [
+        "telugu",
+        "science"
+      ],
+      "_id": {
+        "$oid": "6645f60beeac9ba495ffdbca"
+      }
+    },
+    {
+      "class": "8",
+      "subject": [
+        "telugu",
+        "science"
+      ],
+      "_id": {
+        "$oid": "6645f60beeac9ba495ffdbcb"
+      }
+    },
+    {
+      "class": "9",
+      "subject": [
+        "telugu",
+        "science"
+      ],
+      "_id": {
+        "$oid": "6645f60beeac9ba495ffdbcc"
+      }
+    },
+    {
+      "class": "10",
+      "subject": [
+        "telugu",
+        "science"
+      ],
+      "_id": {
+        "$oid": "6645f60beeac9ba495ffdbcd"
+      }
+    }
+  ],
+  "salary": 21000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645f89deeac9ba495ffdc3e"
+  },
+  "email": "pav@gmail.com",
+  "name": "Pavitra",
+  "class": [
+    {
+      "class": "6",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "6645f89deeac9ba495ffdc3f"
+      }
+    },
+    {
+      "class": "7",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "6645f89deeac9ba495ffdc40"
+      }
+    },
+    {
+      "class": "8",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "6645f89deeac9ba495ffdc41"
+      }
+    },
+    {
+      "class": "10",
+      "subject": [
+        "mathematics",
+        "social"
+      ],
+      "_id": {
+        "$oid": "6645f89deeac9ba495ffdc43"
+      }
+    }
+  ],
+  "salary": 21000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645f9dceeac9ba495ffdc7b"
+  },
+  "email": "har@gmail.com",
+  "name": "Harshitha",
+  "class": [
+    {
+      "class": "6",
+      "subject": [
+        "hindi",
+        "english"
+      ],
+      "_id": {
+        "$oid": "6645f9dceeac9ba495ffdc7c"
+      }
+    },
+    {
+      "class": "7",
+      "subject": [
+        "hindi",
+        "english"
+      ],
+      "_id": {
+        "$oid": "6645f9dceeac9ba495ffdc7d"
+      }
+    },
+    {
+      "class": "8",
+      "subject": [
+        "hindi",
+        "english"
+      ],
+      "_id": {
+        "$oid": "6645f9dceeac9ba495ffdc7e"
+      }
+    },
+    {
+      "class": "10",
+      "subject": [
+        "hindi",
+        "english"
+      ],
+      "_id": {
+        "$oid": "6645f9dceeac9ba495ffdc80"
+      }
+    }
+  ],
+  "salary": 21000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66463ef00ff1ea6d7568bb23"
+  },
+  "email": "siri@gmail.com",
+  "name": "siri",
+  "class": [
+    {
+      "class": "1",
+      "subject": [
+        "telugu",
+        "hindi",
+        "english",
+        "mathematics",
+        "science",
+        "social"
+      ],
+      "_id": {
+        "$oid": "66463ef00ff1ea6d7568bb24"
+      }
+    }
+  ],
+  "salary": 19000,
+  "__v": 0
+}]

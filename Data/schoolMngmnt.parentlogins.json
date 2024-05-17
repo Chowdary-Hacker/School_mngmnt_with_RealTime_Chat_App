@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6628eb8859316ae883d56c42"
+  },
+  "admissionNumber": "181603343",
+  "password": "$2b$10$FpPSLDu.oSJDtW72ldlmCeM5/DL3VSwbnrHp3rUdaXfH0o0oObFpK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a4d3547b0adf248a8ec57"
+  },
+  "admissionNumber": "test",
+  "password": "$2b$10$a35PQ.4cN.zNyyvTGPnWwubJ/ftpdtXm8M8evTVy7kSFZa3EljO4G",
+  "__v": 0
+}]

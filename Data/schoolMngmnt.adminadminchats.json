@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "663db80bdbd2abf5342ee906"
+  },
+  "data": "just self messaging my self",
+  "sender": "adminAssist",
+  "reciever": "adminAdminChat",
+  "adminAssistName": "adminAssist",
+  "date": "10/5/2024, 11:30:43 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db813dbd2abf5342ee90a"
+  },
+  "data": "ok",
+  "sender": "adminAssist",
+  "reciever": "adminAdminChat",
+  "adminAssistName": "adminAssist",
+  "date": "10/5/2024, 11:30:51 am",
+  "__v": 0
+}]

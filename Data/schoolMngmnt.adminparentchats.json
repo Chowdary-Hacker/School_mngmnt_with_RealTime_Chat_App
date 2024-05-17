@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "663db3f4dbd2abf5342ee6e3"
+  },
+  "data": "ok",
+  "sender": "adminAssist",
+  "reciever": "adminParentChat",
+  "parentName": "lakshmi",
+  "childAdmissionNumber": "test",
+  "date": "10/5/2024, 11:13:16 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db412dbd2abf5342ee6f0"
+  },
+  "data": "should not display",
+  "sender": "adminAssist",
+  "reciever": "adminParentChat",
+  "parentName": "Lakshmi",
+  "childAdmissionNumber": "18160334",
+  "date": "10/5/2024, 11:13:46 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db487dbd2abf5342ee718"
+  },
+  "data": "ok",
+  "sender": "parent",
+  "reciever": "adminAssist",
+  "parentName": "Lakshmi",
+  "childAdmissionNumber": "test",
+  "date": "10/5/2024, 11:15:43 am",
+  "__v": 0
+}]

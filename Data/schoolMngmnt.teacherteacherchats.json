@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "663ce8620128b46bbdaea709"
+  },
+  "data": "from saranya :)",
+  "sender": "test@gmail.com",
+  "reciever": "teacherTeacherChatshr@gmail.comtest@gmail.com",
+  "senderTeacherName": "saranya",
+  "receiverTeacherName": "shr",
+  "receiverTeacherMail": "shr@gmail.com",
+  "date": "9/5/2024, 8:44:42 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663ce87f0128b46bbdaea713"
+  },
+  "data": "ok",
+  "sender": "shr@gmail.com",
+  "reciever": "teacherTeacherChatshr@gmail.comtest@gmail.com",
+  "senderTeacherName": "shr",
+  "receiverTeacherName": "saranya",
+  "receiverTeacherMail": "test@gmail.com",
+  "date": "9/5/2024, 8:45:11 pm",
+  "__v": 0
+}]

@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "663609a9158768b8a1f86e07"
+  },
+  "admissionNumber": "fromDate",
+  "parentName": "fake",
+  "studentName": "fake",
+  "studentClass": 0,
+  "paidAmount": 0,
+  "totalAmount": 0,
+  "paymentDetails": [
+    {
+      "paidAmount": 0,
+      "date": "01/01/2024, 3:37:20 pm",
+      "_id": {
+        "$oid": "663609a9158768b8a1f86e08"
+      }
+    }
+  ],
+  "__v": 0,
+  "fromDate": "01/01/2024, 3:37:20 pm"
+},
+{
+  "_id": {
+    "$oid": "66360b01158768b8a1f86e0c"
+  },
+  "admissionNumber": "test",
+  "parentName": "Lakshmi",
+  "studentName": "test",
+  "studentClass": 9,
+  "paidAmount": 8004,
+  "totalAmount": 21000,
+  "paymentDetails": [
+    {
+      "paidAmount": 0,
+      "date": "01/01/2024, 3:37:20 pm",
+      "_id": {
+        "$oid": "66360b01158768b8a1f86e0d"
+      }
+    },
+    {
+      "paidAmount": 6000,
+      "date": "13/5/2024, 3:37:20 pm",
+      "_id": {
+        "$oid": "6641e659675dc32629ad2abf"
+      }
+    },
+    {
+      "paidAmount": 0,
+      "date": "13/5/2024, 3:39:09 pm",
+      "_id": {
+        "$oid": "6641e6c5675dc32629ad2ad8"
+      }
+    },
+    {
+      "paidAmount": 0,
+      "date": "13/5/2024, 3:39:53 pm",
+      "_id": {
+        "$oid": "6641e6f1675dc32629ad2ae1"
+      }
+    },
+    {
+      "paidAmount": 0,
+      "date": "13/5/2024, 3:40:04 pm",
+      "_id": {
+        "$oid": "6641e6fc675dc32629ad2aec"
+      }
+    },
+    {
+      "paidAmount": 0,
+      "date": "13/5/2024, 3:40:06 pm",
+      "_id": {
+        "$oid": "6641e6fe675dc32629ad2af9"
+      }
+    },
+    {
+      "paidAmount": 1,
+      "date": "13/5/2024, 3:40:14 pm",
+      "_id": {
+        "$oid": "6641e706675dc32629ad2b08"
+      }
+    },
+    {
+      "paidAmount": 1,
+      "date": "13/5/2024, 4:14:43 pm",
+      "_id": {
+        "$oid": "6641ef1b675dc32629ad2b3d"
+      }
+    },
+    {
+      "paidAmount": 1,
+      "date": "13/5/2024, 4:49:54 pm",
+      "_id": {
+        "$oid": "6641f75a675dc32629ad2b99"
+      }
+    },
+    {
+      "paidAmount": 1,
+      "date": "13/5/2024, 4:59:42 pm",
+      "_id": {
+        "$oid": "6641f9a6675dc32629ad2c1c"
+      }
+    },
+    {
+      "paidAmount": 2000,
+      "date": "17/5/2024, 6:26:40 pm",
+      "_id": {
+        "$oid": "6647540826abf093f93e6569"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66360e37158768b8a1f86e0f"
+  },
+  "admissionNumber": "18160334",
+  "parentName": "Lakshmi",
+  "studentName": "Mohan Sai",
+  "studentClass": 9,
+  "paidAmount": 0,
+  "totalAmount": 21000,
+  "paymentDetails": [
+    {
+      "paidAmount": 0,
+      "date": "06/5/2024, 3:37:20 pm",
+      "_id": {
+        "$oid": "66360e37158768b8a1f86e10"
+      }
+    }
+  ],
+  "__v": 0
+}]

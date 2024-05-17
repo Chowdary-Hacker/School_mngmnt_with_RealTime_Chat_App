@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "663b5da3f13ef65d192fa8c6"
+  },
+  "admissionNumber": "test",
+  "password": "$2b$10$8uQUpGtpZWTvWxjJRRonfu0N.iHw/nncHeaOhO75H8MJkygLVP6du",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c95c10128b46bbdaea08c"
+  },
+  "admissionNumber": "18160334",
+  "password": "$2b$10$612AraG5b/VUPzdlJVpMW.Gkv6fwMmSYWjYN.yDs..XVpNJ8JLHve",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e0d675dc32629ad2dce"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$FrOhnTEYoGQr4DkQlZJUtuURVrSqhy2UJ/8dM0BeipiC8n/MP5GuS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e0f675dc32629ad2dd1"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$TM4oN5NSBjKuUsYB4orS9Ob9gwnIo9NdBupdLwLBiSctvnXPTJrBi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e10675dc32629ad2dd4"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$kQzRBihjDBxzqlOIF5hEsOcxB0XmTQN.2nd9J2T2.jPqPBD0uqYOG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e10675dc32629ad2dd7"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$8eqZx0nPkjw2tXa6i4R9h.O3qsz9odDfFMNjYeaWf7s5AyZu3r9ua",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e10675dc32629ad2dda"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$8d.1O.ua/N04akb347FlkOBrieT04kt963jh0VbPQlKHTSzT2J3Ey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e10675dc32629ad2ddd"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$7GJoh./l8tnqtxNqe.5Ul.mjgMkgreFGMzYHQAZZOPkDTut9mgYuO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e11675dc32629ad2de0"
+  },
+  "admissionNumber": "jaffa",
+  "password": "$2b$10$/uUCJjr.OXmSd74ST256N.h7oCxaxtOzPJf24TG1sgPjMKvJIdObK",
+  "__v": 0
+}]

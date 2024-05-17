@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "662e2c731656cf13e6928093"
+  },
+  "admissionNumber": "test",
+  "class": 9,
+  "parentEmail": "test@gmail.com",
+  "studentEmail": "test@gmail.com",
+  "name": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e317a1656cf13e69280c8"
+  },
+  "admissionNumber": "18160334",
+  "class": 9,
+  "parentEmail": "sai@gmail.com",
+  "studentEmail": "mohan@gmail.com",
+  "name": "Mohan Sai",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664609ca0ff1ea6d7568b7a1"
+  },
+  "admissionNumber": "123",
+  "class": 10,
+  "parentEmail": "123@gmail.com",
+  "studentEmail": "123@gmail.com",
+  "name": "Gnana Teja Sai",
+  "__v": 0
+}]

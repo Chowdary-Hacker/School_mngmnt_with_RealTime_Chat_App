@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "662dfde40e2b1d046ab694e9"
+  },
+  "data": "meet admin immediately",
+  "sender": "adminAssist",
+  "reciever": "adminStudentChat",
+  "admissionNumber": "18160334",
+  "studentName": "Mohan",
+  "date": "28/4/2024, 1:12:28 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ee49bd69a6c4ca8e10d14"
+  },
+  "data": "I am gonna starting new chat with you",
+  "sender": "adminAssist",
+  "reciever": "adminStudentChat",
+  "admissionNumber": "test",
+  "studentName": "test",
+  "date": "29/4/2024, 5:36:51 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7da379c94e25a9fe8320"
+  },
+  "data": "goddess",
+  "sender": "test",
+  "reciever": "adminAssist",
+  "admissionNumber": "test",
+  "studentName": "test",
+  "date": "8/5/2024, 6:56:59 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7e52960fc07fc7d224d2"
+  },
+  "data": "goddess",
+  "sender": "test",
+  "reciever": "adminAssist",
+  "admissionNumber": "test",
+  "studentName": "test",
+  "date": "8/5/2024, 6:59:54 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b80b7960fc07fc7d22541"
+  },
+  "data": "my goddess",
+  "sender": "test",
+  "reciever": "adminAssist",
+  "admissionNumber": "test",
+  "studentName": "test",
+  "date": "8/5/2024, 7:10:07 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db500dbd2abf5342ee757"
+  },
+  "data": "ok sir",
+  "sender": "18160334",
+  "reciever": "adminAssist",
+  "admissionNumber": "18160334",
+  "studentName": "Mohan Sai",
+  "date": "10/5/2024, 11:17:44 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421e4d675dc32629ad2df0"
+  },
+  "data": "hi, this is jaffa",
+  "sender": "jaffa",
+  "reciever": "adminAssist",
+  "admissionNumber": "jaffa",
+  "date": "13/5/2024, 7:36:05 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664220b2675dc32629ad2ebc"
+  },
+  "data": "ok jaffa",
+  "sender": "adminAssist",
+  "reciever": "adminStudentChat",
+  "admissionNumber": "jaffa",
+  "date": "13/5/2024, 7:46:18 pm",
+  "__v": 0
+}]

@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "6645edd3eeac9ba495ffdabb"
+  },
+  "class": 9,
+  "batch": "19",
+  "fa1": {
+    "mathematics": [
+      {
+        "admissionNumber": "test",
+        "studentName": "test",
+        "MaximumMark": "100",
+        "marks": "89",
+        "_id": {
+          "$oid": "6645edd3eeac9ba495ffdabc"
+        }
+      },
+      {
+        "admissionNumber": "18160334",
+        "studentName": "Mohan Sai",
+        "MaximumMark": "100",
+        "marks": "99",
+        "_id": {
+          "$oid": "6645edd3eeac9ba495ffdabd"
+        }
+      }
+    ],
+    "telugu": [],
+    "hindi": [],
+    "english": [],
+    "science": [],
+    "social": [
+      {
+        "admissionNumber": "test",
+        "studentName": "test",
+        "MaximumMark": "100",
+        "marks": "87",
+        "_id": {
+          "$oid": "664704be26abf093f93e608e"
+        }
+      },
+      {
+        "admissionNumber": "18160334",
+        "studentName": "Mohan Sai",
+        "marks": "66",
+        "_id": {
+          "$oid": "664704be26abf093f93e608f"
+        }
+      }
+    ]
+  },
+  "fa2": {
+    "telugu": [],
+    "hindi": [],
+    "english": [],
+    "mathematics": [
+      {
+        "admissionNumber": "test",
+        "studentName": "test",
+        "MaximumMark": "100",
+        "marks": "89",
+        "_id": {
+          "$oid": "66460a750ff1ea6d7568b7b7"
+        }
+      },
+      {
+        "admissionNumber": "18160334",
+        "studentName": "Mohan Sai",
+        "MaximumMark": "100",
+        "marks": "99",
+        "_id": {
+          "$oid": "66460a750ff1ea6d7568b7b8"
+        }
+      }
+    ],
+    "science": [],
+    "social": []
+  },
+  "fa3": {
+    "telugu": [],
+    "hindi": [],
+    "english": [],
+    "mathematics": [],
+    "science": [],
+    "social": [
+      {
+        "admissionNumber": "test",
+        "studentName": "test",
+        "MaximumMark": "100",
+        "marks": "96",
+        "_id": {
+          "$oid": "6646fba426abf093f93e5ef9"
+        }
+      },
+      {
+        "admissionNumber": "18160334",
+        "studentName": "Mohan Sai",
+        "MaximumMark": "100",
+        "marks": "98",
+        "_id": {
+          "$oid": "6646fba426abf093f93e5efa"
+        }
+      }
+    ]
+  },
+  "fa4": {
+    "telugu": [],
+    "hindi": [],
+    "english": [],
+    "mathematics": [
+      {
+        "admissionNumber": "test",
+        "studentName": "test",
+        "MaximumMark": "100",
+        "marks": "43",
+        "_id": {
+          "$oid": "6647589e26abf093f93e6661"
+        }
+      },
+      {
+        "admissionNumber": "18160334",
+        "studentName": "Mohan Sai",
+        "MaximumMark": "100",
+        "marks": "99",
+        "_id": {
+          "$oid": "6647589e26abf093f93e6662"
+        }
+      }
+    ],
+    "science": [],
+    "social": []
+  },
+  "__v": 0
+}]

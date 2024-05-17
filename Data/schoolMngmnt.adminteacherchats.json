@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "662da07d0e2b1d046ab691ed"
+  },
+  "data": "Meeting is goin on.. please attend as soon as possible..",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "Saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "28/4/2024, 6:33:57 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662da9ee0e2b1d046ab6923f"
+  },
+  "data": "Hlo madam",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "Saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "28/4/2024, 7:14:14 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662dc3e60e2b1d046ab6929f"
+  },
+  "data": "from admin",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "Saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "28/4/2024, 9:05:02 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662de2930e2b1d046ab693c2"
+  },
+  "data": "hlo",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "Saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "28/4/2024, 11:15:55 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662de2a40e2b1d046ab693c5"
+  },
+  "data": "s",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "Saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "28/4/2024, 11:16:12 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6630657bd69a6c4ca8e10e15"
+  },
+  "data": "hlo",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "siri",
+  "teacherMail": "siri@gmail.com",
+  "date": "30/4/2024, 8:58:59 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c5ac5dfb82c74cad721de"
+  },
+  "data": "Hlo Admin, I am Saranya",
+  "sender": "test@gmail.com",
+  "reciever": "adminAssist",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "9/5/2024, 10:40:29 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c5dbedfb82c74cad7226a"
+  },
+  "data": "success (:",
+  "sender": "test@gmail.com",
+  "reciever": "adminAssist",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "date": "9/5/2024, 10:53:10 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c628cdfb82c74cad7234f"
+  },
+  "data": "hlo admin, this is from shr",
+  "sender": "shr@gmail.com",
+  "reciever": "adminAssist",
+  "teacherName": "shr",
+  "teacherMail": "shr@gmail.com",
+  "date": "9/5/2024, 11:13:40 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c6327dfb82c74cad7238f"
+  },
+  "data": "ok",
+  "sender": "admin",
+  "reciever": "adminTeacherChat",
+  "teacherName": "shr",
+  "teacherMail": "shr@gmail.com",
+  "date": "9/5/2024, 11:16:15 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c6522dfb82c74cad723f8"
+  },
+  "data": "gg",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "shr",
+  "teacherMail": "shr@gmail.com",
+  "date": "9/5/2024, 11:24:42 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db797dbd2abf5342ee8a5"
+  },
+  "data": "i am shr :)",
+  "sender": "shr@gmail.com",
+  "reciever": "adminAssist",
+  "teacherName": "shr",
+  "teacherMail": "shr@gmail.com",
+  "date": "10/5/2024, 11:28:47 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db7a3dbd2abf5342ee8b3"
+  },
+  "data": "ok",
+  "sender": "adminAssist",
+  "reciever": "adminTeacherChat",
+  "teacherName": "shr",
+  "teacherMail": "shr@gmail.com",
+  "date": "10/5/2024, 11:28:59 am",
+  "__v": 0
+}]

@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "663dab70dbd2abf5342ee4d7"
+  },
+  "data": "Hlo Mohan, i am test. ",
+  "sender": "test",
+  "reciever": "studentStudentChat18160334test",
+  "senderStudentName": "test",
+  "receiverStudentName": "Mohan Sai",
+  "receiverAdmissionNumber": "18160334",
+  "date": "10/5/2024, 10:36:56 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dab8adbd2abf5342ee4e1"
+  },
+  "data": "ok (:",
+  "sender": "18160334",
+  "reciever": "studentStudentChat18160334test",
+  "senderStudentName": "Mohan Sai",
+  "receiverStudentName": "test",
+  "receiverAdmissionNumber": "test",
+  "date": "10/5/2024, 10:37:22 am",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dab9fdbd2abf5342ee4f0"
+  },
+  "data": ":)",
+  "sender": "test",
+  "reciever": "studentStudentChat18160334test",
+  "senderStudentName": "test",
+  "receiverStudentName": "Mohan Sai",
+  "receiverAdmissionNumber": "18160334",
+  "date": "10/5/2024, 10:37:43 am",
+  "__v": 0
+}]

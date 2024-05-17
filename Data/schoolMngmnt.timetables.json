@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "66447b3c4df5ce9dd8ea8366"
+  },
+  "class": 9,
+  "monday": [
+    "telugu",
+    "hindi",
+    "english",
+    "mathematics",
+    "science"
+  ],
+  "tuesday": [
+    "telugu",
+    "hindi",
+    "english",
+    "mathematics",
+    "social"
+  ],
+  "wednesday": [
+    "telugu",
+    "social",
+    "english",
+    "mathematics",
+    "science"
+  ],
+  "thursday": [
+    "social",
+    "hindi",
+    "english",
+    "mathematics",
+    "science"
+  ],
+  "friday": [
+    "telugu",
+    "hindi",
+    "english",
+    "social",
+    "science"
+  ],
+  "saturday": [
+    "telugu",
+    "hindi",
+    "english",
+    "mathematics",
+    "science"
+  ],
+  "__v": 0
+}]

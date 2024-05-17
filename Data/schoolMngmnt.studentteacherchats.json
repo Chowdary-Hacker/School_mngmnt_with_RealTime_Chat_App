@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "663ce16b0128b46bbdaea57f"
+  },
+  "data": "from saranya (:",
+  "sender": "test@gmail.com",
+  "reciever": "studentTeacherChat18160334test@gmail.com",
+  "studentName": "Mohan Sai",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "studentAdmissionNumber": "18160334",
+  "date": "9/5/2024, 8:14:59 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663ce17a0128b46bbdaea585"
+  },
+  "data": "hlo",
+  "sender": "18160334",
+  "reciever": "studentTeacherChat18160334test@gmail.com",
+  "studentName": "Mohan Sai",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "studentAdmissionNumber": "18160334",
+  "date": "9/5/2024, 8:15:14 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66421ec4675dc32629ad2e1d"
+  },
+  "data": "hi teacher, this is jaffa",
+  "sender": "jaffa",
+  "reciever": "studentTeacherChatjaffatest@gmail.com",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "studentAdmissionNumber": "jaffa",
+  "date": "13/5/2024, 7:38:04 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66422120675dc32629ad2f0c"
+  },
+  "data": "ok student jaffa.",
+  "sender": "test@gmail.com",
+  "reciever": "studentTeacherChatjaffatest@gmail.com",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "studentAdmissionNumber": "jaffa",
+  "date": "13/5/2024, 7:48:08 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647553226abf093f93e65d9"
+  },
+  "data": "hlo, i am test",
+  "sender": "test",
+  "reciever": "studentTeacherChattesttest@gmail.com",
+  "studentName": "test",
+  "teacherName": "saranya",
+  "teacherMail": "test@gmail.com",
+  "studentAdmissionNumber": "test",
+  "date": "17/5/2024, 6:31:38 pm",
+  "__v": 0
+}]

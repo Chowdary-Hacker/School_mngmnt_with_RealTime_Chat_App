@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6643a01c590542a4bac8008a"
+  },
+  "class": 9,
+  "telugu": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "hindi": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "english": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "mathematics": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "science": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "social": "𝓕𝓐-1 => lesson1, lession2 ; 𝓕𝓐-2 => lesson3 ; 𝓕𝓐-3 => lesson4 ; 𝓕𝓐-4 => lesson5 ",
+  "__v": 0
+}]
