@@ -25,7 +25,7 @@ It only allows parent in after getting parent child (student) successfully enrol
 
 ![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/59376506-3e95-47de-9c9f-3a5c0d8f8857)
 
-![Screenshot (62)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/546fd519-fdbd-4f01-a568-38ac19263e38)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/21806f80-6a96-404a-bbbc-069aa208fb4d)
 
 Parent can able to talk with school management (Admin Assistant) anytime through this chatting feature. Its a real time continuous synchronous application.
 
