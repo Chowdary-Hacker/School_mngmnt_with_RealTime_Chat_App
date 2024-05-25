@@ -10,7 +10,7 @@ Recording vedio of the project :
 continuation vedio to the above vedio : 
 (https://www.loom.com/share/3b8d546b3ad84ed0a1c614561c32f242?sid=bcbf6f33-9c8a-45e4-b366-b4815385d7ba)
 
-ITS BETTER TO DOWNLOAD THE RAW FILE FROM README.docx for better readability..
+# ITS BETTER TO DOWNLOAD THE RAW FILE FROM README.pdf for better readability..
 
 HOME PAGE :
 
