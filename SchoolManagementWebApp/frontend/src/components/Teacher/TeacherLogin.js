@@ -1,0 +1,56 @@
+import { useNavigate, Link} from "react-router-dom";
+import { useState } from "react"; import axios from 'axios';
+function TeacherLogin(){
+    const [teacherMail, setTeacherMail] = useState('');
+    const [password, setPassword] = useState('');
+    const nav = useNavigate();
+    const handleAdmissionNumberChange = (event) => {
+      setTeacherMail(event.target.value);
+    };
+  
+    const handlePasswordChange = (event) => {
+      setPassword(event.target.value);
+    };
+  
+    const handleSubmit = async (event) => {
+      event.preventDefault();
+      console.log('Submitting form:', { teacherMail, password }); let vaf=true;
+      await axios.get("http://localhost:3333/teacherInfo/"+teacherMail).then(res=>{if(res.data===null){vaf = false; alert("You have not been enrolled in school database, contact with admin assistant to get enrolled in (:"); nav("/")}}).catch(e=>console.log(e));
+     vaf && await axios.post("http://localhost:3333/teacherLogin",{userName:teacherMail, password:password}).then(res=>{if(res.status===222){axios.get("http://localhost:3333/teacherLogin/teacherDashboard",{headers:{'x-token':res.data}}).then(ress=>{if(ress.status===222){console.log(ress);nav('/TeacherDashboard', {state:{sessionToken:res.data, teacherMail:teacherMail}});}})}else{alert(res.data)}}).catch(e=>{alert("Failed due to bad network Please try again later.. (:");});
+    };
+  
+    return (
+      <div className='regis'>  <div className="registration-container">
+        <h2>Teacher Login</h2>
+        <form onSubmit={handleSubmit} className="registration-form">
+          <div className="form-group">
+            <label htmlFor="admissionNumber">User Name(Mail id):</label>
+            <input
+              type="text"
+              id="admissionNumber"
+              value={teacherMail}
+              onChange={handleAdmissionNumberChange}
+              required
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="password">Password:</label>
+            <input
+              type="password"
+              id="password"
+              value={password}
+              onChange={handlePasswordChange}
+              required
+            />
+          </div>
+          <button type="submit">Login</button>
+        </form>
+        <div className="login-link">
+      <p>Want to go home ?<Link to="/">Home</Link></p>
+      <p>Want to Register ?<Link to="/TeacherRegistration">Register</Link></p>
+        <p>Want to change password ?<Link to="/Mail">Reset Password</Link></p>
+      </div>
+      </div> </div>
+    );
+}
+export default TeacherLogin;
