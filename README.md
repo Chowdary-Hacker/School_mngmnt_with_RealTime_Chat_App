@@ -1,5 +1,9 @@
 # School_mngmnt_with_RealTime_Chat_App  
 
+# Main key features in this perfect school management website using MERN STACK(FULL STACK DEVELOPMENT) are :
+# 1.) Chat application  2.) Data Analytics   3.) Material UI
+
+
 Recording vedio of the project : 
 (https://www.loom.com/share/ec2efece9cbf475b88aaf9e70de3b99c?sid=7ebf2730-a842-48ac-a9cc-6dc70f026a1c)
 
