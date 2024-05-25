@@ -10,7 +10,8 @@ ITS BETTER TO DOWNLOAD THE RAW FILE FROM README.docx for better readability..
 
 HOME PAGE :
 
-![Screenshot (59)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/872a19aa-79c1-4d97-a22c-91ed3fda4bb9)
+![Screenshot (94)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/2bdbe9e3-f277-4c13-b19f-3d7dfe2a4b51)
+
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -30,9 +31,10 @@ It only allows parent in after getting parent child (student) successfully enrol
 
 1.3) Parent Dashboard :
 
-![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/59376506-3e95-47de-9c9f-3a5c0d8f8857)
+![Screenshot (97)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/19bcd15e-7e80-4b76-bbd1-e96ee0d34536)
 
-![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/21806f80-6a96-404a-bbbc-069aa208fb4d)
+![Screenshot (98)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/494ba1f8-2618-4b74-82dc-163edd56080a)
+
 
 Parent can able to talk with school management (Admin Assistant) anytime through this chatting feature. Its a real time continuous synchronous application.
 
@@ -42,35 +44,29 @@ This is a pie chat showing pending fee in blue and paid fee in yellow.
 
 1.4) Paying fee and dowloading fee receipts feature of parent :
 
-![Screenshot (63)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/6f0c2f02-ab1a-4862-b07b-1bed3b5a7e03)
+![Screenshot (99)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/14fda938-8f17-45c1-b9d3-4e59ec0bdd81)
 
-![Screenshot (64)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/4dc49537-9963-4dff-975b-98787b10d1af)
+![Screenshot (101)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/ddd6cb1d-2e20-481b-9fd5-f8755725c497)
 
-![Screenshot (65)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/f9c7d781-6c3a-4927-ab7d-e46cc80d468f)
+![Screenshot (102)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/4a9b69aa-d747-4ed0-ae14-989850ae4e23)
 
-![Screenshot (66)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/7e8e306e-f4a4-42b2-9e24-18a121da2719)
+Parent can able to download the fee reciepts after clicking on fetch reciepts and clicking on the particular receipt :
 
-Parent can able to download the fee recieptsafter clicking on fetch reciepts and clicking on the particular receipt.
+![Screenshot (103)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/716808e0-5272-467c-b779-9ae6e92dcd27)
 
-![Screenshot (67)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/9cbcc3ce-3be2-4c85-913f-dea252b84020)
-
-This is the page to download fee paid reciepts and to pay the fee and while paying the fee, it will display a gif as shown above and after successfull transaction, it wont appear.
 
 Fee Receipt :
 
-<img width="650" alt="image" src="https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/1c1016bc-40b0-4730-af8b-d8d6e47c983e">
+![Screenshot (104)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/8a6eda84-42c5-499d-9c79-de880bd97a22)
+
 
 -------------------------------------------------------------------------------------------------------------
 
-1.5) Displaying Child academic score in the parent login :
+1.5) Displaying Child academic score in the parent portal :
 
-![Screenshot (68)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/2c0c6c9b-86f8-4dff-83a9-d1bc6973d030)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/71b60d96-c4e6-4098-8c8a-6d6cbf1c3c08)
 
-![Screenshot (69)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/0626aca9-83e1-40f3-85bd-cee5d3d9a0b8)
-
-![Screenshot (70)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/bce7366d-6316-4eaf-bc39-5e671dc0aa80)
-
-![Screenshot (71)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/248e2ddc-c6a7-4e4e-9187-5021b14fc216)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/982cb695-66d8-4792-ae8c-462c277bf646)
 
 Totally, there are exam types : fa1, fa2, fa3, fa4.
 
@@ -80,7 +76,7 @@ After alloting all the subjects i.e., telugu, hindi, english, mathematics, scien
 
 And whenever student clicks the “promote to next class” button, his details would automatically updates in the school database, but failed student details would still stays in the same class.
 
-![Screenshot (71)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/1e05978c-9017-40ee-8934-4e17568d8dfd)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/bfa551bc-49d2-4d86-8978-516eda308544)
 
 This is the Syllabus and time table of the student (Child of the respective parent). These could be added by the Admin Assistant with the suggetions of respective class teachers.
 
@@ -102,11 +98,13 @@ It only allows student in after getting student successfully enrolled in school 
 
 2.3)Student Dashboard :
 
-![Screenshot (74)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/d56a1f01-0955-4fc8-9a60-c1573c2db744)
+![Screenshot (107)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/05a479d2-43d4-4fa7-b1d4-2c072f50d61f)
 
-![Screenshot (75)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/13d54ef9-4d12-4e74-8549-ce294f255b82)
+![Screenshot (108)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/558c5c9e-29a5-47c9-a43b-fddb313208ce)
 
-![Screenshot (76)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/05a04a45-bbb2-4ab9-b8df-3e1edec3168b)
+![Screenshot (109)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/8d8143a7-9f17-4775-b378-c30707d99b19)
+
+<img width="959" alt="image" src="https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/bc46c69c-b7ee-49e4-849f-07ea1200abbe">
 
 To Chat with a new teacher or new student, one should click on the add symbol and should give corresponding details for a new chat as shown above.
 
@@ -114,11 +112,9 @@ To Chat with a new teacher or new student, one should click on the add symbol an
 
 2.4) Student Academics :
 
-![Screenshot (77)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/68b44ed0-f0fa-4938-ae5b-318760af00f2)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/3d1b6da0-72e3-413f-8b42-9e5bfc8a0237)
 
-![Screenshot (69)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/4821e285-6c48-4e03-8a1c-056b99a4944d)
-
-![Screenshot (70)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/8f285cd5-0651-4d91-9dc5-813439eedd0a)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/982cb695-66d8-4792-ae8c-462c277bf646)
 
 Totally, there are exam types : fa1, fa2, fa3, fa4.
 
@@ -142,7 +138,9 @@ This is the Syllabus and time table of the student . These could be added by the
 
 3.2) Admin Dashboard :
 
-![Screenshot (79)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/4771f5b7-39ee-466e-9822-4f5131768c93)
+![Screenshot (111)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/a0728d85-5618-4e7b-8ecc-ca5612590b98)
+
+![Screenshot (112)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/7115ffb5-a8aa-4805-a85d-c3e61cdee44b)
 
 This graph shows the overall analytics of fee collection daywise in each month.
 
@@ -150,11 +148,8 @@ By default it displays the present month’s statistics.
 
 And fee analytics display from the date of 01/01/2024 as show in the above figure. However you can reset this anytime later..
 
-![Screenshot (79)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/39c16509-b0dd-4abf-90bb-2378528b5569)
-
 Since there is no fee colected in the month other than may, its not displaying any other month and only displays the month in which fee collection has done. And whenever clicks on the particular month on the pie chat, it displays the day wise fee collection analytics in the bar graph as shown previously.
 
-![Screenshot (80)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/14afefa0-7a5d-4ce9-bf57-16cbaa21fcd9)
 
 “Reset the fee analytics starting from now” button sets the fee analytics statistics from the current date.
 
@@ -178,13 +173,19 @@ Since there is no fee colected in the month other than may, its not displaying a
 
 3.5)Admin Assistant Dashboard :
 
-![Screenshot (83)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/51545aa8-2549-4926-b4b7-d5e0efb08b77)
+![image](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/7baf835b-e7d7-41b5-89dc-51835fa91c33)
 
-![Screenshot (84)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/0b513e17-d1b7-493a-9fef-659425181494)
+![Screenshot (113)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/a9fb91c8-dc9f-43b4-be0a-bb4f29a0a8ae)
 
-All details should be entered by an admin in json format to enroll in school database. Also admin assistant can able to edit the information by fetching then and clicking edit button delete button as shown bellow for each role :
+![Screenshot (114)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/92616a83-706e-439a-a900-10fdd628ab9a)
 
-![Screenshot (85)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/99f47738-dd1a-4ee4-b4fd-85e77648fa49)
+![Screenshot (115)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/07d4733e-73ea-4c14-a4e4-fda897295e9e)
+
+All details should be entered by an admin to enroll in school database. Also admin assistant can able to edit the information by fetching then and clicking edit button delete button as shown bellow for each role :
+
+![Screenshot (116)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/26d40950-0599-41d4-89d8-cbe6e3e306bc)
+
+![Screenshot (117)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/8bebcbe6-f470-4dc3-877b-26fc7fef301f)
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -204,16 +205,23 @@ It only allows teacher in after getting student successfully enrolled in school 
 
 4.3) Teacher Dashboard :
 
-![Screenshot (88)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/00849a13-692b-4d20-8cd6-a55521142259)
+![Screenshot (118)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/ca10b10f-ae2b-4382-9a39-c36c0cd43026)
 
-![Screenshot (89)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/642cf3c2-d759-4ce9-bf75-b1111e5215a0)
+![Screenshot (119)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/db3fd39e-d533-4a19-8257-64493e07d12a)
+
+![Screenshot (122)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/0586ee91-7db9-4b93-a22e-63b6c541dc8e)
 
 -------------------------------------------------------------------------------------------------------------
 
 4.4)Marks allocation by a teacher for her respective classes’s subject’s students :
 
-![Screenshot (90)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/7f6878b6-2dbc-4b02-94c8-e91584fda798)
+![Screenshot (123)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/d2743fa2-8933-4f5f-85db-a5343c258aa4)
 
+![Screenshot (124)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/d6d857cb-8f06-441a-a9fd-0a1ba24a051f)
+
+![Screenshot (125)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/f5241846-dcad-4d6a-b425-c305d46b3232)
+
+![Screenshot (126)](https://github.com/Chowdary-Hacker/School_mngmnt_with_RealTime_Chat_App/assets/113694256/fa90212f-1445-425b-af63-78e391223ce3)
 
 It displays all the classes of which a respected teacher could go and respective subjects and the lost of student in the selected class.
 
